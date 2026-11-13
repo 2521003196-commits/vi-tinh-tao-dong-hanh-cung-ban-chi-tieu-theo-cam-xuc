@@ -1,0 +1,6 @@
+{
+  "name": "Ví Tỉnh Tảo",
+  "description": "Ứng dụng quản lý chi tiêu thông minh và kiểm soát mua sắm bốc đồng với quy tắc tạm dừng 24 giờ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
